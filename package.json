@@ -1,0 +1,19 @@
+{
+  "name": "src",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tic_tac_toe.js",
+  "scripts": {
+    "karma": "karma start ./karma.local.conf.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^3.4.1",
+    "karma": "^0.13.19",
+    "karma-chai": "0.1.0",
+    "karma-chrome-launcher": "0.1.4",
+    "karma-mocha": "0.1.4",
+    "mocha": "2.2.4"
+  }
+}

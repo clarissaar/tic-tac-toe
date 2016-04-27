@@ -1,0 +1,12 @@
+td {
+      width: 100px;
+      height: 100px;
+      background: #ffffff;
+      font-size: 80px;
+      color: #ff0000;
+      cursor: pointer;
+}
+
+table {
+      background: #000000;
+}
